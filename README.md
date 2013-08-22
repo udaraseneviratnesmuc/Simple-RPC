@@ -3,4 +3,4 @@
 * type >make
 * type >sudo ./notice_server
 * type >./notice_client localhost
-* reference :-
+* reference :- http://lwtucs.blogspot.com/2013/08/we-will-create-rpc-remote-procedure.html
